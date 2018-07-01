@@ -17,6 +17,10 @@ In the code
 
 "g" is asymmetry factor at "tt/2" in the medium
 
-"fuu1(n)" is upward flux at level "n" for homogeneous Eddington solution
+"fuu1(n)" is upward flux at level "n" for homogeneous Eddington solution. (Eq.(A6a) in the paper)
 
-"fdu1(n)" is downward flux at level "n" for homogeneous Eddington solution
+"fdu1(n)" is downward flux at level "n" for homogeneous Eddington solution. (Eq.(A6b) in the paper)
+
+"fuu1w(n)" is upward flux at level "n" for perturbation solution for variation of single scattering albedo. (solution of Eq.(A7) for l=1)
+
+"fdu1w(n)" is downward flux at level "n" for perturbation solution for variation of single scattering albedo. (solution of Eq.(A7) for l=1)

@@ -2,7 +2,7 @@ program eddington
 IMPLICIT REAL(4)(A-H, K-Z)
 integer::i,n,l1,l,j
 parameter(n=2)
-real(4):: fdu1(n),fuu1(n),fdu1w(n),fuu1w(n),fdu1g(n),fuu1g(n),fdu1wg(n),fuu1wg(n),fdu(n),fuu(n),p(257)
+real(4):: fdu1(n),fuu1(n),fdu1w(n),fuu1w(n),fdu1g(n),fuu1g(n),fdu(n),fuu(n),p(257)
 u0 = 0.5
 u = 0.7074532
 Del_varph = 0.0

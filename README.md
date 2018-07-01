@@ -1,7 +1,9 @@
 # RT-model-for-a-vertical-inhomogeneous-medium
 the code for the paper named "Bidirectional radiative intensity calculation based on Eddington approximation in a vertically inhomogeneous medium"
 
-In the code
+# In the code
+
+Input:
 
 "n" is number of the level, "n=2" mean the code is suit for 1 lay (2 levels).
 
@@ -17,10 +19,12 @@ In the code
 
 "g" is asymmetry factor at "tt/2" in the medium
 
-"fuu1(n)" is upward flux at level "n" for homogeneous Eddington solution. (Eq.(A6a) in the paper)
+Output:
 
-"fdu1(n)" is downward flux at level "n" for homogeneous Eddington solution. (Eq.(A6b) in the paper)
+"fuu(n)" is upward flux of the vertically inhomogeneous medium at level n. (n=1,2)
 
-"fuu1w(n)" is upward flux at level "n" for perturbation solution for variation of single scattering albedo. (solution of Eq.(A7) for l=1)
+"fdu(n)" is downward flux of the vertically inhomogeneous medium at level n. (n=1,2)
 
-"fdu1w(n)" is downward flux at level "n" for perturbation solution for variation of single scattering albedo. (solution of Eq.(A7) for l=1)
+"TI" is azimuthally averaged radiative intensity at top of the inhomogeneous medium.
+
+"TI_AZI" is azimuthally independent radiative intensity at top of the inhomogeneous medium.

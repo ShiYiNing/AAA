@@ -1,6 +1,8 @@
 # RT-model-for-a-vertical-inhomogeneous-medium
 the code for the paper named "Bidirectional radiative intensity calculation based on Eddington approximation in a vertically inhomogeneous medium"
+
 In the code
+
 "n" is number of the level, "n=2" mean the code is suit for 1 lay (2 levels).
 "u0" is cosine of solar zentih angel
 "u" is cosine of zentih angel

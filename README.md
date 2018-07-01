@@ -7,17 +7,19 @@ Input:
 
 "n" is number of the level, "n=2" mean the code is suit for 1 lay (2 levels).
 
-"u0" is cosine of solar zentih angel
+"u0" is cosine of solar zentih angel.
 
-"u" is cosine of zentih angel
+"u" is cosine of zentih angel.
 
 "Del_varph" is difference between the azimuth angel and the the solar azimuth angel
 
-"tt" is optical depth of the medium.
+"t0" is optical depth of the medium.
 
-"ww" is single scattering albedo at "tt/2." in the medium
+"ww" is single scattering albedo at "t0/2." in the medium.
 
-"g" is asymmetry factor at "tt/2" in the medium
+"g" is asymmetry factor at "t0/2" in the medium.
+
+"sigmaw"/"sigmag" are small coefficients in Eq. (4).
 
 Output:
 

@@ -1,4 +1,4 @@
-# bidirectional radiative intensity calculation based on Eddington approximation
+# Bidirectional radiative intensity calculation based on Eddington approximation
 the code bidirectional radiative intensity calculation based on Eddington approximation in a vertically inhomogeneous medium
 
 # In the code
